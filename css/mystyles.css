@@ -1,0 +1,41 @@
+p{
+    color: black;
+}
+
+a.jerrylink{
+    padding: 0px 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color: cornflowerblue;
+}
+
+a.jerrylink:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div.jerrydivgrey{
+    background-color: rgb(235, 235, 235);
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    line-height: 40px;
+}
+
+div.subheading2{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+section#about.resume-section{
+    background-color: aqua;
+}
+
+.jerrycrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 5px 5px;
+    border-radius: 5px;
+}
