@@ -28,7 +28,7 @@ div.jerrydivgrey{
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
-    background-attachment: scroll;
+    border-image: auto;
 }
 
 .jerryserif{
