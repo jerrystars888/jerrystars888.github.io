@@ -28,7 +28,7 @@ div.jerrydivgrey{
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
-    max-width: 100%;
+    max-width: auto;
 }
 @media (max-width: 768px) {
     img{
