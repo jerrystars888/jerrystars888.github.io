@@ -23,14 +23,11 @@ div.jerrydivgrey{
 }
 
 .jerrycrop{
-    height: 300px;
-    overflow: hidden;
+    height: 300px; 
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
     background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
 }
 
 .jerryserif{
