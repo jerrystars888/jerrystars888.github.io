@@ -10957,6 +10957,7 @@ section.resume-section .resume-section-content {
   width: 100%;
   background-position: center;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 @media (min-width: 768px) {
