@@ -30,6 +30,11 @@ div.jerrydivgrey{
     border-radius: 5px;
     max-width: 100%;
 }
+@media (max-width: 768px) {
+    img{
+    display: block;
+  }
+}
 
 .jerryserif{
     font-family: "Noto Serif TC", serif;
@@ -55,7 +60,7 @@ div.jerrydivgrey{
 .text-english{
     font-size: 60%;
     padding: 0px 20px;
-    color: blue;
+    color: blueviolet;
 }
 
 .lead{
