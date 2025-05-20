@@ -23,13 +23,9 @@ div.jerrydivgrey{
 }
 
 div.subheading2{
-    color: blueviolet;
+    color: cornflowerblue;
     font-weight: bold;
     font-size: 25px;
-}
-
-section#about.resume-section{
-    background-color: aqua;
 }
 
 .jerrycrop{
