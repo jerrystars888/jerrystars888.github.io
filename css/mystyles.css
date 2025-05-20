@@ -23,11 +23,14 @@ div.jerrydivgrey{
 }
 
 .jerrycrop{
-    height: 300px; 
+    height: 300px;
+    overflow: scroll;
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
     background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
 
 .jerryserif{
@@ -52,7 +55,7 @@ div.jerrydivgrey{
 }
 
 .text-english{
-    font-size: 70%;
+    font-size: 65%;
     padding: 25px 20px;
     color: blueviolet;
 }
