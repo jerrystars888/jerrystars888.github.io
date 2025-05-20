@@ -30,11 +30,6 @@ div.jerrydivgrey{
     border-radius: 5px;
     max-width: 100%;
 }
-@media (max-width: 768px) {
-    img{
-    display: block;
-  }
-}
 
 .jerryserif{
     font-family: "Noto Serif TC", serif;
