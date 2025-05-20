@@ -9,10 +9,6 @@ a.jerrylink{
     color: cornflowerblue;
 }
 
-a.text-date{
-    color: peru;
-}
-
 a.jerrylink:hover{
     background-color: cornflowerblue;
     color: white;
@@ -32,4 +28,13 @@ div.jerrydivgrey{
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
+}
+
+.jerryserif{
+    font-family: "Noto Serif TC", serif;
+}
+
+.text-date{
+    color: orchid;
+    font-weight: bold;
 }
