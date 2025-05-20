@@ -29,8 +29,15 @@ div.jerrydivgrey{
     margin: 5px 5px;
     border-radius: 5px;
     max-width: 100%;
-    @media (max-width: 768px) {
-  img {
+}
+
+@media (max-width: 768px) {
+    img src="assets/photo/01.jpg"
+    img src="assets/photo/02.jpg"
+    img src="assets/photo/03.jpg"
+    img src="assets/photo/04.jpg"
+    img src="assets/photo/05.jpg"
+    img src="assets/photo/06.jpg"{
     display: block;
   }
 }
