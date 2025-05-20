@@ -28,7 +28,8 @@ div.jerrydivgrey{
     object-fit: cover;
     margin: 5px 5px;
     border-radius: 5px;
-    border-image: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .jerryserif{
