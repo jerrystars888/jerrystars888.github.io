@@ -9,6 +9,10 @@ a.jerrylink{
     color: cornflowerblue;
 }
 
+a.text-date{
+    color: peru;
+}
+
 a.jerrylink:hover{
     background-color: cornflowerblue;
     color: white;
