@@ -7343,7 +7343,7 @@ textarea.form-control-lg {
 }
 
 .flex-grow-0 {
-  flex-grow: 0 !important;
+  flex-grow: 1 !important;
 }
 
 .flex-grow-1 {
@@ -7351,7 +7351,7 @@ textarea.form-control-lg {
 }
 
 .flex-shrink-0 {
-  flex-shrink: 0 !important;
+  flex-shrink: 1 !important;
 }
 
 .flex-shrink-1 {
@@ -10951,7 +10951,10 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+}
+
+section.resume-section .resume-section-content {
+  width: 100%;
 }
 
 @media (min-width: 768px) {
