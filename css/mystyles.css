@@ -32,8 +32,6 @@ div.jerrydivgrey{
 @media (max-width: 768px) {
     img{
     display: block;
-    height: auto;
-    width: auto;
   }
 }
 
