@@ -27,11 +27,12 @@ div.jerrydivgrey{
     overflow: hidden;
     object-fit: contain;
     margin: 5px 5px;
+    border-radius: 5px;
 }
 @media (max-width: 768px) {
     img{
     display: block;
-    min-width: max-content;
+    min-width: 640px;
     
   }
 }
