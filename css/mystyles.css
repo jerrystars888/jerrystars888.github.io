@@ -29,10 +29,10 @@ div.jerrydivgrey{
     margin: 5px 5px;
     border-radius: 5px;
 }
-@media (max-width: 640px) {
+@media (max-width: 500px) {
     img{
     display: block;
-    min-width: 640px;
+    min-width: 500px;
   }
 }
 
