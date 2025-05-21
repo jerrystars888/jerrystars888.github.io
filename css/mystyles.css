@@ -32,7 +32,7 @@ div.jerrydivgrey{
 @media (max-width: 500px) {
     img{
     display: block;
-    min-width: 500px;
+    min-width: 640px;
   }
 }
 
