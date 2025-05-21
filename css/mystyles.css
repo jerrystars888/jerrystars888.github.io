@@ -24,9 +24,9 @@ div.jerrydivgrey{
 
 .jerrycrop{
     height: 500px;
+    overflow: hidden;
     object-fit: contain;
     margin: 5px 5px;
-    border-radius: 5px;
 }
 @media (max-width: 768px) {
     img{
