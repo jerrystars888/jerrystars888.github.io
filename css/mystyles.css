@@ -23,7 +23,7 @@ div.jerrydivgrey{
 }
 
 .jerrycrop{
-    height: px;
+    height: 500px;
     overflow: hidden;
     object-fit: contain;
     margin: 5px 5px;
